@@ -15,16 +15,16 @@
              color: white;
              padding: 20px;
              text-align: center;
-             border-bottom: 5px solid #007bb5; /* Línea de borde inferior */
+             border-bottom: 5px solid #007bb5; /* LÃ­nea de borde inferior */
          }
 
          header h1 {
              font-size: 2.5em;
          }
 
-         /* Barra de navegación */
+         /* Barra de navegaciÃ³n */
          #navPrincipal {
-             background-color: #0044cc; /* Azul más oscuro para la barra de navegación */
+             background-color: #0044cc; /* Azul mÃ¡s oscuro para la barra de navegaciÃ³n */
              padding: 10px 0;
              text-align: center;
          }
@@ -51,14 +51,14 @@
              text-decoration: underline;
          }
 
-         /* Sección principal */
+         /* SecciÃ³n principal */
          main {
              padding: 20px;
              background-color: #ffffff;
          }
 
          main h1, main h2 {
-             color: #007bb5; /* Azul más oscuro para títulos */
+             color: #007bb5; /* Azul mÃ¡s oscuro para tÃ­tulos */
              margin-top: 40px;
          }
 
@@ -73,7 +73,7 @@
              max-width: 100%;
          }
 
-         /* Estilos para imágenes */
+         /* Estilos para imÃ¡genes */
          img {
              max-width: 100%;
              height: auto;
